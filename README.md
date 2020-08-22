@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi ,EveryOne.
+I like Java,Python,and C++
